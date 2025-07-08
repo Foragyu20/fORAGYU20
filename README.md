@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Flutter, And Firebase**
 
-- 💬 Ask me about **Python, Flutter, And Android Studio**
+- 💬 Ask me about **Python And Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
