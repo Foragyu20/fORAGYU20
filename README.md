@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Foragyu 20</h1>
+<h1 align="center">👋 Hey, I'm Forest</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%92%BB;Dart+%7C+C%2B%2B+Programmer+%F0%9F%92%BB;Electronics+and+MCU+Hobbyist+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
