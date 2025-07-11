@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Foragyu 20</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%92%BB;Dart+%7C+C%2B%2B+Programmer+%F0%9F%92%BB;Electronics+and+MCU+Hobbyist+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%92%BB;Dart+%7C+C%2B%2B+Programmer+%F0%9F%92%BB;Electronics+and+MCU+Hobbyist+%E2%9A%96%EF%B8%8F;Building+Smart+Apps+with+Voice+%F0%9F%8E%A7" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,17 +9,19 @@
 ## 🧠 About Me
 
 - 🖥️ I code in **Dart (Flutter)** and **C/C++**
-- 💡 Building a **Flutter Inventory System** with local DB and CSV export
+- 📱 Currently building a **Mother Tongue Learning App** with:
+  - 📡 Custom Server API
+  - 🎙️ Voice Recognition
+- 💡 Also working on a **Flutter Inventory System** with local DB + CSV export
 - 🧩 Hobbies include tinkering with **Raspberry Pi, ESP32, and ESP8266**
-- 🎮 Currently designing a **story-driven pixel-art game with memory-based themes**
-- 🧪 Loves experimenting with **embedded systems & microcontrollers**
+- 🎮 Currently learning while creating a **story-driven pixel-art game about family memories**
 
 ---
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,arduino,vscode,git,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,arduino,firebase,sqlite,vscode,git" />
 </div>
 
 ---
@@ -36,10 +38,10 @@
 
 ## ⚡ Hobbies & Interests
 
-- 🛠️ **Microcontroller Projects** (RP2040, ESP32, ESP8266)
-- 🌐 **Networking & IoT**
-- 📟 **Sensors, Displays, and Real-Time Interfaces**
-- 🎨 **Game & UI Design** with pixel art
+- 🛠️ Microcontroller Projects (RP2040, ESP32, ESP8266)
+- 🗣️ Speech Recognition & Educational Tools
+- 🌐 Custom APIs and Networking
+- 🎨 UI/Game Design with Pixel Art
 
 ---
 
